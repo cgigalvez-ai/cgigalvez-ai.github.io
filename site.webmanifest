@@ -1,7 +1,7 @@
 {
   "name": "FallClear",
   "short_name": "FallClear",
-  "start_url": "./",
+  "start_url": "./index.html.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#FFFFFF",
